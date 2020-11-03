@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Koolwiza</h1>
 <h3 align="center">I am a discord bot developer. I provide open source discord bots that are easily configurable. Most of my bots are run with quick.db v7.1.1 and discord.js v12.14.1</h3>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Koolwiza&theme=dracula"></div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Koolwiza" alt="Koolwizar" /> </p>
 
